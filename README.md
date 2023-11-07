@@ -1,6 +1,6 @@
 <!-- # ⭕ Tic-Tac-Toe -->
 
-## Discord: ur4ix
+### Discord: ur4ix
 
 [//]: # (<img alt="workshop/tictactoe" width="1412" src="../.resources/tictactoe.png">)
 
